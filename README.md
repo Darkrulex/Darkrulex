@@ -40,8 +40,11 @@
 - :email: Rauf.jutt@gmail.com #### Profile Visits ![visitors](https://visitor-badge.glitch.me/badge?page_id=Darkrulex.Darkrulex) <details> <summary> More stuff about me </summary> <br > I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why Technical Rauf Youtube Channel exists! 
 #### What is Technical Rauf?
  Technical Rauf  is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world. 
-#### Coding Stats 
-<!--START_SECTION:waka--> ```text TypeScript 15 hrs 41 mins ████████████████████▓░░░░ 82.29 % HTML 1 hr 50 mins ██▒░░░░░░░░░░░░░░░░░░░░░░ 09.61 % Markdown 1 hr 27 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 07.63 % Other 2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 00.25 % YAML 2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 00.19 % ``` 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrulex)](https://github.com/Darkrulex/github-readme-stats)
+
+![PicsArt_07-03-09 01 37](https://user-images.githubusercontent.com/87162660/127104692-864c2a56-2170-43ba-83b4-68c910682908.jpg)
+
 <!--END_SECTION:waka--> 
 #### Github Stats ![Darkrulex's github stats](https://github-readme-stats.vercel.app/api?username=Darkrulex&count_private=true&theme=tokyonight&hide=contribs,prs) 
 </details> [reactplaylist]: https://youtube.com/channel/UClDIIEfxN3JRdii6b2z64jw 

@@ -8,7 +8,8 @@
 [![Mail Badge](https://img.shields.io/badge/-@rauf.on.tabahi@gmail.com-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/RaufUnbeatable)
 [![Mail Badge](https://img.shields.io/badge/-Raufalijutt-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rauf.on.tabahi@gmail.com) 
 <!-- TODO: Add last video link --> 
-- 🔭 I’m currently working at @Toptal - :computer: Most used line of code `git commit -m "Initial Commit"` 
+- 🔭 I’m currently working at @Toptal 
+- :computer: Most used line of code `git commit -m "Initial Commit"` 
 - 🤔 I’m looking for help with Outstanding Video ideas. 
 - 📫 How to reach me:Rauf.on.tabahi@gmail.com. 
 - 😄 Pronouns: Raufcoding, Darkrulex, th3darkrul3x. 

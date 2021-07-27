@@ -21,6 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrulex&layout=compact)](https://github.com/Darkrulex/github-readme-stats)
 
 
+![Darkrulex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkrulex&show_icons=true)
 
 
 ![PicsArt_07-03-09 01 37](https://user-images.githubusercontent.com/87162660/127104692-864c2a56-2170-43ba-83b4-68c910682908.jpg)

@@ -17,7 +17,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrulex)](https://github.com/Darkrulex/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrulex&exclude_repo=github-readme-stats,Darkrulex.github.io)](https://github.com/Darkrulex/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrulex&hide=javascript,html)](https://github.com/Darkrulex/github-readme-stats)
+
 
 
 ![PicsArt_07-03-09 01 37](https://user-images.githubusercontent.com/87162660/127104692-864c2a56-2170-43ba-83b4-68c910682908.jpg)

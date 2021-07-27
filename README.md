@@ -18,7 +18,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrulex)](https://github.com/Darkrulex/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrulex&hide=javascript,html)](https://github.com/Darkrulex/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrulex&layout=compact)](https://github.com/Darkrulex/github-readme-stats)
+
 
 
 

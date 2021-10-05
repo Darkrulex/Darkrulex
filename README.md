@@ -21,16 +21,16 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![GraphQL Badge](https://img.shields
+
 #### TH3 SH1K9R||(H0UD D9RK B0||S 0N T9B9H||
-![VIRUS]
-![N0BIT9]
-![HUNNY]
-![ANUP]
-![G9NGST3R]
-![J0GH1]
-![ATIQ]
-![SYC0]
+![VIRUS] 
+![N0BIT9] 
+![HUNNY] 
+![ANUP] 
+![G9NGST3R] 
+![J0GH1] 
+![ATIQ] 
+![SYC0] 
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Darkrulex.Darkrulex) <details> <summary> More stuff about me </summary> <br > I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why Technical Rauf Youtube Channel exists! 
 #### What is Technical Rauf?

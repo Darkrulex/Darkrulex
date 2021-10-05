@@ -23,14 +23,17 @@
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![GraphQL Badge](https://img.shields
 #### TH3 SH1K9R||(H0UD D9RK B0||S 0N T9B9H||
-#### Bizness 
-- :paperclip: (https://github.com/unbeatablerauf/raufjutt/blob/master/resumes/resume%20v1.0.pdf) 
-- :email: Rauf.jutt@gmail.com 
+![VIRUS]
+![N0BIT9]
+![HUNNY]
+![ANUP]
+![G9NGST3R]
+![J0GH1]
+![ATIQ]
+![SYC0]
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Darkrulex.Darkrulex) <details> <summary> More stuff about me </summary> <br > I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why Technical Rauf Youtube Channel exists! 
 #### What is Technical Rauf?
  Technical Rauf  is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world. 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrulex)](https://github.com/Darkrulex/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrulex)](https://github.com/Darkrulex/github-readme-stats)
 ![PicsArt_07-03-09 01 37](https://user-images.githubusercontent.com/87162660/127104692-864c2a56-2170-43ba-83b4-68c910682908.jpg)

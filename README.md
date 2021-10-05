@@ -24,10 +24,15 @@
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) 
 ### Tutorials 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+
 [reactplaylist] [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+
 [htmltutorial] [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
 [javascripttutorial] [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[vscodetutorial] <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> 
+
+[vscodetutorial] <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> 
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /> 
@@ -38,16 +43,11 @@
 <br /> 
 <br /> #### Bizness 
 - :paperclip: [My Resume/CV](https://github.com/unbeatablerauf/raufjutt/blob/master/resumes/resume%20v1.0.pdf) 
-- :email: Rauf.jutt@gmail.com #### Profile Visits ![visitors](https://visitor-badge.glitch.me/badge?page_id=Darkrulex.Darkrulex) <details> <summary> More stuff about me </summary> <br > I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why Technical Rauf Youtube Channel exists! 
+- :email: Rauf.jutt@gmail.com 
+#### Profile Visits ![visitors](https://visitor-badge.glitch.me/badge?page_id=Darkrulex.Darkrulex) <details> <summary> More stuff about me </summary> <br > I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why Technical Rauf Youtube Channel exists! 
 #### What is Technical Rauf?
  Technical Rauf  is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrulex)](https://github.com/Darkrulex/github-readme-stats)
 
 ![PicsArt_07-03-09 01 37](https://user-images.githubusercontent.com/87162660/127104692-864c2a56-2170-43ba-83b4-68c910682908.jpg)
-
-<!--END_SECTION:waka--> 
-#### Github Stats ![Darkrulex's github stats](https://github-readme-stats.vercel.app/api?username=Darkrulex&count_private=true&theme=tokyonight&hide=contribs,prs) 
-</details> [reactplaylist]: https://youtube.com/channel/UClDIIEfxN3JRdii6b2z64jw 
-[vscodetutorial]: https://youtube.com/channel/UClDIIEfxN3JRdii6b2z64jw [htmltutorial]: https://youtube.com/channel/UClDIIEfxN3JRdii6b2z64jw 
-[javascripttutorial]: https://youtube.com/channel/UClDIIEfxN3JRdii6b2z64jw
